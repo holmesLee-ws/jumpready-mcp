@@ -23,3 +23,5 @@ Node.js 20 이상을 준비하고 이 폴더에서 `npm install --ignore-scripts
 API URL은 신뢰하는 HTTPS 서버만 지정하세요. API 요청은 리다이렉트를 따라가지 않습니다.
 종료는 클라이언트의 MCP 연결 해제 또는 프로세스 종료로 합니다. stdout은 MCP 메시지 전용입니다.
 npm에는 게시하지 않습니다.
+
+라이선스: MIT — [LICENSE](LICENSE)를 참조하세요.
